@@ -4,3 +4,7 @@
 - Mauvais calcule des dégats au niveaux de la prévu des dégats (sinon le sort fonctionne trql)
 
 - Aversion ne fonctionne pas correctement quand plusieur entitée sont collé : https://imgur.com/FtbM7O3
+
+.....................................
+
+- fulgurence ne tape pas les enemis sur les cellules traversée.
