@@ -4,6 +4,16 @@
       "report": "Le debuff du sadida bug pour le retrait pm du sort \"Ronce apaisante\" Il debuff mais tu ne peux pas utiliser les pm..",
       "auteur": "HERMES",
       "date": "Mon Aug 20 2018 09:52:33 GMT+0400 (GMT+04:00)"
+    },
+    {
+      "report": "conjuration dure 1 tours complet plutot qu'une seul attak",
+      "auteur": "HERMES",
+      "date": "Tue Aug 21 2018 04:47:08 GMT+0400 (GMT+04:00)"
+    },
+    {
+      "report": "épidémie ne marche pas correctement",
+      "auteur": "HERMES",
+      "date": "Tue Aug 21 2018 08:37:33 GMT+0400 (GMT+04:00)"
     }
   ]
 }
