@@ -2,5 +2,8 @@
 
 - revoir les lignes de vue du sort Piège fangeux. (est un sort sans ligne de vue)
 
-- d'après Zitoune fofo : Injection Toxique doit réduire le temps de relance quand on utilise un piège et donc on doit pouvoir au bout de 5 piège l'utiliser 2 fois hors cela reset le temps de relance quand on le lance et donc reste a 5 tour.
-(à vérifier)
+
+...............................................
+
+
+- épidemie est sensé transmettre le poison et non pas faire des dégats direct au entité à côté, exemple: je suis un sram je lance épidemie sur l'osa, fin du tour de l'osa épidemie explose, osa prend les dégats direct, les invocations autour prennent le poison, fin du tour de l'invocation le poison fait des dégats direct sur l'entité et restransmet le poison sur les gens autour (peu encore revenir sur l'osa)
