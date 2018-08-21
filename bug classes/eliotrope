@@ -13,3 +13,5 @@
     -- le totem n'est pas sensé tp les ennemis (à veref)
 
 - conjuration boost les dégats pour deux tour alors que ça devrait le faire que pour une attaque sauf si la cible traverse un portail.
+
+- raillerie n'est pas sensé avoir un retrait pm cumullable
