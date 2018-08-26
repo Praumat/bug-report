@@ -11,29 +11,9 @@
       "date": "Fri Aug 24 2018 08:48:36 GMT+0400 (GMT+04:00)"
     },
     {
-      "report": "Mallédiction vaudou se debuff pas",
-      "auteur": "Sabri",
-      "date": "Sat Aug 25 2018 07:00:24 GMT+0400 (GMT+04:00)"
-    },
-    {
-      "report": "état infecté par treant + la vaudou ne se debuff pas",
-      "auteur": "Hussam",
-      "date": "Sat Aug 25 2018 07:02:42 GMT+0400 (GMT+04:00)"
-    },
-    {
-      "report": "ocre se prock tour1",
-      "auteur": "Hussam",
-      "date": "Sat Aug 25 2018 20:00:11 GMT+0400 (GMT+04:00)"
-    },
-    {
       "report": "Quand on debuff le retriat pm du piège immo , on reprend pas ses pm , pareil avc ronce apaisante",
       "auteur": "Sabri",
       "date": "Sat Aug 25 2018 22:14:25 GMT+0400 (GMT+04:00)"
-    },
-    {
-      "report": "le retrait raillerie est cumulable pareil pour albinos",
-      "auteur": "Sabri",
-      "date": "Sun Aug 26 2018 09:29:48 GMT+0400 (GMT+04:00)"
     },
     {
       "report": "le poison paralysant fait spott la roublardise",
@@ -51,11 +31,6 @@
       "date": "Sun Aug 26 2018 11:31:44 GMT+0400 (GMT+04:00)"
     },
     {
-      "report": "le retrait de la ronce paralysante est cumulable",
-      "auteur": "Sabri",
-      "date": "Sun Aug 26 2018 21:51:41 GMT+0400 (GMT+04:00)"
-    },
-    {
       "report": " Bug odyssée  (perte totale de pm si odyssée+portail derriere)  pas toujours juste quelque fois sa arrive.",
       "auteur": "Faerey",
       "date": "Sun Aug 26 2018 22:44:30 GMT+0400 (GMT+04:00)"
@@ -69,11 +44,6 @@
       "report": "do pou en diagonale tape moins que son pou normale",
       "auteur": "Hussam",
       "date": "Sun Aug 26 2018 23:36:54 GMT+0400 (GMT+04:00)"
-    },
-    {
-      "report": "mon mdp marche pas sur  le site",
-      "auteur": "Faerey",
-      "date": "Sun Aug 26 2018 23:38:38 GMT+0400 (GMT+04:00)"
     }
   ]
 }
