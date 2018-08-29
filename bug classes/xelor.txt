@@ -1,6 +1,8 @@
 - invoquer le complice quand on a plus d'invocation disponnible provoque un bug qui n'invoque tout simplement pas le complice.
 
 .
-.................................
+
 
 - le xel peut retrait pa la personne porté par panda
+
+.................................

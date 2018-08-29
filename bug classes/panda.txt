@@ -1,12 +1,13 @@
 
 -porter un double et passer son tour, quand il explosera il sera toujours considéré sur le panda alors qu'il est sensé être mort, on ne peut donc pas le coop (bug aillant peu d'impacte en pvm mais pas mal en koli 3v3)
 
-.....................................
+
 
 -Porté:Si le panda porte une cible , alors qu'il est contre un mur , et que le panda est "poussé" contre le mur , la cible devrais rester sur la pandawa. Or , Si le panda porte une cible , alors qu'il est contre un mur , et que le panda est "poussé" contre le mur les deux personnages tombe sur la même case.( et peuvent se faire taper en même temps) ?
 
 -Tonneau attire jusqu'à 13 cases sur les serveur officiel les cible ennemis et les allié sous picole. N'attire pas les alliés sous picoles , N'attire pas assez les ennemis, 4 case dans le cas actuel et 7 normalement ( attirance de lvl 1 , n'as pas assez de PO 13 normalement ).?
 
-- Coiffe de classe pandawa : la portée de cercle brulant est censée devenir modifiable, mais ce n'est pas le cas. 
+- Coiffe de classe pandawa : la portée de cercle brulant est censée devenir modifiable, mais ce n'est pas le cas.
 
 
+.....................................

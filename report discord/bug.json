@@ -94,6 +94,16 @@
       "report": "sacri des fois il est plus la et le tour prochain il se reinvoque",
       "auteur": "Hussam",
       "date": "Mon Aug 27 2018 23:36:47 GMT+0400 (GMT+04:00)"
+    },
+    {
+      "report": "le totem ne regen pas , le bug est signalé depuis bien longtemps maintenant ..",
+      "auteur": "Sabri",
+      "date": "Tue Aug 28 2018 23:16:24 GMT+0400 (GMT+04:00)"
+    },
+    {
+      "report": "dépouille marche pas selon entité",
+      "auteur": "Hussam",
+      "date": "Wed Aug 29 2018 02:34:06 GMT+0400 (GMT+04:00)"
     }
   ]
 }
