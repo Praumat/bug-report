@@ -1,6 +1,5 @@
 {
   "report de bug": [
-
     {
       "report": " Bug odyssée  (perte totale de pm si odyssée+portail derriere)  pas toujours juste quelque fois sa arrive.",
       "auteur": "Faerey",
@@ -15,6 +14,11 @@
       "report": "dépouille marche pas selon entité",
       "auteur": "Hussam",
       "date": "Wed Aug 29 2018 02:34:06 GMT+0400 (GMT+04:00)"
+    },
+    {
+      "report": "panda peut cascade même si il est stab",
+      "auteur": "Hussam",
+      "date": "Wed Aug 29 2018 21:39:39 GMT+0400 (GMT+04:00)"
     }
   ]
 }
