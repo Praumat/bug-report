@@ -1,1 +1,1 @@
-:)
+le fichier bug report bot sont tout les report fait sur discord, je les notes une fois tout les je ne sais pas combien de jours, si vous voyez les bugs dans la liste c'est qu'ils ne sont pas encore noté.
