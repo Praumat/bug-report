@@ -72,6 +72,30 @@
       "auteur": "Praumat",
       "date": "Sat Sep 01 2018 03:48:21 GMT+0400 (GMT+04:00)",
       "serveur": "Atensis"
+    },
+    {
+      "report": "test",
+      "auteur": "Praumat",
+      "date": "Sun Sep 02 2018 11:25:22 GMT+0400 (GMT+04:00)",
+      "serveur": "Atensis"
+    },
+    {
+      "report": "Les bouftou d osamodas. ..Leurs ta clé est bugé",
+      "auteur": "Hussam",
+      "date": "Mon Sep 03 2018 05:21:58 GMT+0400 (GMT+04:00)",
+      "serveur": "Atensis"
+    },
+    {
+      "report": " e sort conjuration est bug, il reste tout le temps actif au lieu d'être actif qu'une seule fois puis réactif si la cible passe dans un portail",
+      "auteur": "Aитi",
+      "date": "Tue Sep 04 2018 02:31:17 GMT+0400 (GMT+04:00)",
+      "serveur": "Atensis"
+    },
+    {
+      "report": "le sort Kaboom est bug, quand on le débuff le roub ne prend quand même pas de dgt de ses bombes",
+      "auteur": "Aитi",
+      "date": "Tue Sep 04 2018 17:48:30 GMT+0400 (GMT+04:00)",
+      "serveur": "Atensis"
     }
   ]
 }
