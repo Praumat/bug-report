@@ -8,6 +8,8 @@
 
 - épidemie est sensé transmettre le poison et non pas faire des dégats direct au entité à côté, exemple: je suis un sram je lance épidemie sur l'osa, fin du tour de l'osa épidemie explose, osa prend les dégats direct, les invocations autour prennent le poison, fin du tour de l'invocation le poison fait des dégats direct sur l'entité et restransmet le poison sur les gens autour (peu encore revenir sur l'osa)
 
-...............................................
+
 
 - si on debuff le mallus de pm du sort piege d'imo on ne récupere pas les pm
+
+...............................................

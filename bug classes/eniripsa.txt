@@ -2,6 +2,7 @@
 
 - le heal de mot éclatant bug contre les invocations : quand plusieurs invocation sont touché par le sort mot éclatant l'éni (et ses allié) ne se font heal qu'une fois. (quand les invocations tapé sont à 2 cases de distance ça fait ça, quand ils sont plus éloigné le heal marche correctement) https://i.imgur.com/zRDUgGb.gif
 
-...........................
+
 
 - le lapino préfére heal des invocation full life que les joueurs avec peu de vie.
+...........................

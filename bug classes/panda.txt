@@ -9,8 +9,6 @@
 
 - Coiffe de classe pandawa : la portée de cercle brulant est censée devenir modifiable, mais ce n'est pas le cas.
 
+- il est impossible de se faire attirer par cascade sous l'état enraciné normalement.
 
 .....................................
-
-
-- il est impossible de se faire attirer par cascade sous l'état enraciné normalement.
