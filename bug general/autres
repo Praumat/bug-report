@@ -14,13 +14,21 @@
 
 - les costumes avec animation font lag les combats comme pas possible
 
--Quand on se debuff , on perd le pm ou le pa de l'abyssal
+- Quand on se debuff , on perd le pm ou le pa de l'abyssal
 
 - on est pas sensé avoir les boost des dofus ocre vulbis au tour 1
 
 - on est sensé avoir les boost du dofus ivoir au tour 1.
 
-.......................................
-
+- on perd les boost de sort si on deco reco pendant le combat : colere du iop, fleche punitive, fleche d'expia etccc
 
 - do pou en diagonale tape moins que normalement (à test offi par rapport à la prévu)
+
+- quand un sram/féca/roublard/osa est dans l'état pacifist, les glyphe de bombe/piege/invocation/glyphe ne font pas de degat. (sauf pour l'explosion des bombes roublard)
+
+
+
+
+Pour reproduire le bug il faut mettre le iop à 1 pm qu'il se boost en pm avec agitation (2pm) + abyssal (1pm)
+le bug vient du fait que le iop ne perds aucun degat sur zenith si on le ral pm.
+Comme tout les pm du iop représente 100% des dégats de zentih alors boost pm le iop augmente se pourcentage, si le iop a 1 pm alors le bosst 1 pm augmente de 100% en plus les dégats donc +3 pm ça fait 100% + 300% =400%

@@ -1,3 +1,7 @@
 panda:
 
 Bug chapeau de classe Panda la portée modifiable du sort Cercle Brulant n'est pas modifier
+
+bug global item de classe :
+
+aucun item de classe n'augmente correctement la po des sort, on le voit affiché mais ça marche un message d'erreur quand on veut lancer plus loin : "impossible de lancer ce sort actuellement"

@@ -1,88 +1,10 @@
 {
   "report de bug": [
-    {
-      "report": "les portails flexibles ont les même augmentations dommages que les portails normaux",
-      "auteur": "Hussam",
-      "date": "Fri Aug 31 2018 04:26:12 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "test",
-      "auteur": "Praumat",
-      "date": "Wed Sep 05 2018 04:11:43 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "Quand le Sram fait une brume. .. Les personn dedans  utilisent des pa sans qu on voient leur ombre",
-      "auteur": "Hussam",
-      "date": "Thu Sep 06 2018 00:33:05 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "sadida les intervalles ne reviennent pas",
-      "auteur": "Sabri",
-      "date": "Thu Sep 06 2018 01:35:16 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "contre du xel marche pas",
-      "auteur": "Sabri",
-      "date": "Fri Sep 07 2018 01:55:39 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "l'ia du chaton",
-      "auteur": "Sabri",
-      "date": "Sat Sep 08 2018 19:38:09 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "Enutrof la pelle du jugement se cumule alors que c'est normalement 1 cumul max",
-      "auteur": "Ephilias",
-      "date": "Sun Sep 09 2018 19:20:50 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "conjuration + totem de merde ptn",
-      "auteur": "Sabri",
-      "date": "Sun Sep 09 2018 19:36:21 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "on mange les dégâts du mur de roub même si il est corrup",
-      "auteur": "Hussam",
-      "date": "Tue Sep 11 2018 19:12:08 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "les portails flexibles de l elio ont les les même domages que les portails normal",
-      "auteur": "Hussam",
-      "date": "Tue Sep 11 2018 19:16:05 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "pénitence ça marche pas",
-      "auteur": "Hussam",
-      "date": "Tue Sep 11 2018 20:26:27 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "le sort transe est bug, il ne réduit pas les hp max et donc un perso peut soin par dessus",
-      "auteur": "Aитi",
-      "date": "Tue Sep 11 2018 23:57:25 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "les sorts qui tapent sans ligne de vue ne peuvent pas taper a travers portail en cas de (sans ligne de vue cree via portail)",
-      "auteur": "Ephilias",
-      "date": "Wed Sep 12 2018 14:42:09 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    },
-    {
-      "report": "totem d elio soin pas",
-      "auteur": "Hussam",
-      "date": "Fri Sep 14 2018 01:49:21 GMT+0400 (GMT+04:00)",
-      "serveur": "Atensis"
-    }
+  
+ 
+
+
+
+ 
   ]
 }

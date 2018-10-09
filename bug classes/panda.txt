@@ -11,4 +11,5 @@
 
 - il est impossible de se faire attirer par cascade sous l'état enraciné normalement.
 
+- les personnes portée ne sont pas sensé recevoir de boost ni de heal ni de quoi que ce soit par des sorts de zone, exemple odorat/mot selectif etc
 .....................................

@@ -10,10 +10,12 @@
 - déco reco fait disparraitre de vu les portails pour la personne qui se deco reco uniquement.
 
 - l'effet du totem (Distorsion) ne fonctionne pas (est sensé heal tout les alliés qui passent par un portails, temps que le totem est en vie)
-    -- le totem n'est pas sensé tp les ennemis (à veref)
+    -- le totem n'est pas sensé tp les ennemis
 
 - conjuration boost les dégats pour deux tour alors que ça devrait le faire que pour une attaque sauf si la cible traverse un portail.
 
 - raillerie n'est pas sensé avoir un retrait pm cumullable
 
-...................
+- les sorts qui tapent sans ligne de vue ne peuvent pas taper a travers portail en cas de (sans ligne de vue cree via portail) exemple: elio met 2 portails et un cra fait fleche harcelente dans le portail, la fleche harcelante ne se lance pas si il y a un obstacle alors que normalement si
+
+- les portails flexibles de l elio ont les les même domages que les portails normaux
